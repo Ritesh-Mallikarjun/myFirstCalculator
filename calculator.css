@@ -1,0 +1,34 @@
+.container{  
+    text-align: center;
+    margin-top:20px;
+}
+table{
+    margin: auto;
+    padding:5px;
+    /* background-color: crimson; */
+}
+table td{
+    padding:5px;
+}
+input{
+    width:494px;
+    height:80px;
+    font-size:43px;
+    text-align: right;
+    border: none;
+}
+button{
+    width:90px;
+    height:70px;
+    font-size:20px;
+    border: none;
+    cursor: pointer;
+}
+h1{
+    font-size: 40px;
+}
+.rows{
+   display: inline-block;
+   background-color:#333;
+   padding:15px 5px 5px 5px;  
+}
